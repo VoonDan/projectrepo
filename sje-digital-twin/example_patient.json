@@ -1,0 +1,31 @@
+{
+  "patient_id": "research-subject-001",
+  "timestamp": "2026-06-19T09:00:00Z",
+  "dietary_acid_load_mEq_day": 65.0,
+  "net_acid_excretion_mEq_day": 48.0,
+  "ph": 7.37,
+  "baseline_ph": 7.41,
+  "bicarbonate_mmol_l": 22.0,
+  "sodium_mmol_l": 140.0,
+  "chloride_mmol_l": 104.0,
+  "albumin_g_dl": 3.6,
+  "lactate_mmol_l": 1.8,
+  "ketones_mmol_l": 0.3,
+  "urine_ph": 5.7,
+  "urine_ammonium_mEq_day": 28.0,
+  "titratable_acid_mEq_day": 22.0,
+  "egfr_ml_min_1_73m2": 72.0,
+  "respiratory_rate_bpm": 18.0,
+  "co2_ppm": 900.0,
+  "wearable": {
+    "resting_hr_bpm": 68.0,
+    "hrv_ms": 42.0,
+    "spo2_percent": 98.0,
+    "sleep_hours": 6.5,
+    "activity_minutes": 45.0
+  },
+  "context": {
+    "use_case": "preventive_ageing",
+    "notes": "Synthetic example only. Not patient data."
+  }
+}
